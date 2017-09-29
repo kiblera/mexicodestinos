@@ -1,4 +1,4 @@
-Updating Mexico 
+Updating Mexico and now Canada 
 
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
